@@ -9,6 +9,11 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaelatiengo&bg_color=111112&color=0cc67e&line=0bc16c&point=76e5c9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+### Studying at this moment:
+![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{rafaelatiengo}/count.svg" /></p> 
